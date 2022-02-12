@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "nombreCompleto": "Leslie",
+      "telefono": "982292730",
+      "email": "les-lie_13@hotmail.com",
+      "id": 1
+    },
+    {
+      "nombreCompleto": "LeslieViviana",
+      "telefono": "982292730",
+      "email": "les-lie_13@hotmail.com",
+      "id": 2
+    },
+    {
+      "nombreCompleto": "Liz",
+      "telefono": "985634876",
+      "email": "liz@gmail.com",
+      "id": 3
+    },
+    {
+      "nombreCompleto": "Carmen",
+      "telefono": "986774753",
+      "email": "carmen@gmail.com",
+      "id": 4
+    },
+    {
+      "nombreCompleto": "Ana",
+      "telefono": "982292730",
+      "email": "ana@gmail.com",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
